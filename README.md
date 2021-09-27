@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tripathiji18
+- 👋 Hi, I’m ACHINTYA TRIPATHI
 - 👀 I’m interested in photography 
 - 🌱 I’m currently learning python and web development
 - 💞️ I’m looking to collaborate on 
